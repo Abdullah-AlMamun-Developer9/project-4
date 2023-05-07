@@ -1,0 +1,26 @@
+
+@media screen and (max-width: 786px) {
+    .main-area {
+        min-height: 50vh;
+    }
+    .text-area-main {
+        padding: 10px 0px;
+        text-align: center;
+    }
+    .text-area-main .text-style {
+        font-size: 32px;
+    }
+    .main-down h2 {
+        font-size: 24px;
+    }
+    .main-down h2 span {
+        font-size: 32px;
+    }
+    .down-area {
+        flex-direction: column;
+    }
+    .down-area h2 {
+        font-size: 32px;
+    }
+}
+    
